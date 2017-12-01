@@ -1,9 +1,15 @@
-h1, h2, h3, span{
+h1, h2, span{
 	text-align: center;
 }
 
-.crystals{
-	clear: both;
+.instructions {
+	margin-left:250px;
+
+}
+
+.row {
+    margin-right: -15px;
+	margin-left: 250px;
 }
 .crystalImage{
 	height: 60px;
@@ -23,45 +29,4 @@ h1, h2, h3, span{
 
 
 
-}
-/* General Elements*/
-/*
-div{
-	background-color: white;
-	margin: 10px;
-
-}
-div{
-	border: solid 2px rgb(216, 211, 204);
-	padding: 10px;
-}
-
-h1, h3, span{
-	font-weight: bold;
-	text-align: center;
-}
-h1{
-	font-size: 30pt;
-}
-ol{
-	list-style: decimal inside; 
-}
-ul {
-	list-style: disc inside;
-	text-indent: 20px;
-}
-div.header, div.gems{
-	background-color: #e0e0eb;
-}
-div.header, div.instructions{
-	width: 100%;
-}
-.numberToMatch, .winsAndLosses{
-	float: left;
-	width: 15%;
-	height: 60px;
-}
-.userTotal{
-	width: 15%;
-	height: 60px;
 }
