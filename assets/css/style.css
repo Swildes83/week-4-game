@@ -1,12 +1,9 @@
 h1, h2, span{
 	text-align: center;
 }
-
 .instructions {
 	margin-left:250px;
-
 }
-
 .row {
     margin-right: -15px;
 	margin-left: 250px;
@@ -26,7 +23,4 @@ h1, h2, span{
 }
 #yellow{
 	color: #f3af01;
-
-
-
 }
